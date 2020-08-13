@@ -1,8 +1,6 @@
-# 401-Reading-Notes
-
-
 # Code 401 Reading Notes
-## Here i will creating summaries about what i read and learn during the 401 class
+
+## Here i will be creating summaries about what i read and learn during the 401 class
 
 ***Name***                           | *Links*
 -------------------------------------|-------------------------------------------

@@ -12,7 +12,7 @@ Reading and Writing Files in Python  | [class-02](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Classes and Objects in python        | [class-03](https://obiorbitalstar.github.io/401-Reading-Notes/Class-03)
 -------------------------------------|-------------------------------------------
-Read-04                              | [class-04]()
+Linked Lists                         | [class-04](ttps://obiorbitalstar.github.io/401-Reading-Notes/Class-04)
 -------------------------------------|-------------------------------------------
 Read-05                              | [class-05]()
 -------------------------------------|-------------------------------------------

@@ -4,13 +4,13 @@
 
 ***Name***                           | *Links*
 -------------------------------------|-------------------------------------------
-Read-01                              | [class-00](https://obiorbitalstar.github.io/401-Reading-Notes/Class-00)
+BIG O notaion                        | [class-00](https://obiorbitalstar.github.io/401-Reading-Notes/Class-00)
 -------------------------------------|-------------------------------------------
-Read-01                              | [class-01](https://obiorbitalstar.github.io/401-Reading-Notes/Class-01)
+Python Modules                       | [class-01](https://obiorbitalstar.github.io/401-Reading-Notes/Class-01)
 -------------------------------------|-------------------------------------------
-Read-02                              | [class-02](https://obiorbitalstar.github.io/401-Reading-Notes/Class-02)
+Reading and Writing Files in Python  | [class-02](https://obiorbitalstar.github.io/401-Reading-Notes/Class-02)
 -------------------------------------|-------------------------------------------
-Read-03                              | [class-03](https://obiorbitalstar.github.io/401-Reading-Notes/Class-03)
+Classes and Objects in python        | [class-03](https://obiorbitalstar.github.io/401-Reading-Notes/Class-03)
 -------------------------------------|-------------------------------------------
 Read-04                              | [class-04]()
 -------------------------------------|-------------------------------------------

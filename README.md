@@ -14,7 +14,7 @@ Classes and Objects in python        | [class-03](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Linked Lists                         | [class-04](ttps://obiorbitalstar.github.io/401-Reading-Notes/Class-04)
 -------------------------------------|-------------------------------------------
-Read-05                              | [class-05]()
+Random Module and Risk Analysis      | [class-05](ttps://obiorbitalstar.github.io/401-Reading-Notes/Class-05)
 -------------------------------------|-------------------------------------------
 Read-06                              | [class-06]()
 -------------------------------------|-------------------------------------------

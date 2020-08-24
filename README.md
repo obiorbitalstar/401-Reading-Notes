@@ -18,7 +18,7 @@ Random Module and Risk Analysis      | [class-05](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Global and nonlocal socoops in python| [class-06](https://obiorbitalstar.github.io/401-Reading-Notes/Class-06)
 -------------------------------------|-------------------------------------------
-Read-07                              | [class-07]()
+List Comprehensions                  | [class-07](https://obiorbitalstar.github.io/401-Reading-Notes/Class-07)
 -------------------------------------|-------------------------------------------
 Read-08                              | [class-08]()
 -------------------------------------|-------------------------------------------

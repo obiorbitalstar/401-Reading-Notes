@@ -16,7 +16,7 @@ Linked Lists                         | [class-04](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Random Module and Risk Analysis      | [class-05](https://obiorbitalstar.github.io/401-Reading-Notes/Class-05)
 -------------------------------------|-------------------------------------------
-Read-06                              | [class-06]()
+Global and nonlocal socoops in python| [class-06](https://obiorbitalstar.github.io/401-Reading-Notes/Class-06)
 -------------------------------------|-------------------------------------------
 Read-07                              | [class-07]()
 -------------------------------------|-------------------------------------------

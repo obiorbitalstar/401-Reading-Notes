@@ -20,7 +20,7 @@ Global and nonlocal socoops in python| [class-06](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 List Comprehensions                  | [class-07](https://obiorbitalstar.github.io/401-Reading-Notes/Class-07)
 -------------------------------------|-------------------------------------------
-Read-08                              | [class-08]()
+Dunder Methods and Statistics - Probability                             | [class-08](https://obiorbitalstar.github.io/401-Reading-Notes/Class-08)
 -------------------------------------|-------------------------------------------
 Read-09                              | [class-09]()
 -------------------------------------|-------------------------------------------

@@ -22,7 +22,7 @@ List Comprehensions                  | [class-07](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Dunder Methods and Statistics - Probability                             | [class-08](https://obiorbitalstar.github.io/401-Reading-Notes/Class-08)
 -------------------------------------|-------------------------------------------
-Read-09                              | [class-09]()
+Stacks and Queues                              | [class-09](https://obiorbitalstar.github.io/401-Reading-Notes/Class-09)
 -------------------------------------|-------------------------------------------
 Read-10                              | [class-10]()
 -------------------------------------|-------------------------------------------

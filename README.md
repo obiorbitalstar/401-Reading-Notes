@@ -20,11 +20,11 @@ Global and nonlocal socoops in python| [class-06](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 List Comprehensions                  | [class-07](https://obiorbitalstar.github.io/401-Reading-Notes/Class-07)
 -------------------------------------|-------------------------------------------
-Dunder Methods and Statistics - Probability                             | [class-08](https://obiorbitalstar.github.io/401-Reading-Notes/Class-08)
+Dunder Methods and Statistics - Probability| [class-08](https://obiorbitalstar.github.io/401-Reading-Notes/Class-08)
 -------------------------------------|-------------------------------------------
-Stacks and Queues                              | [class-09](https://obiorbitalstar.github.io/401-Reading-Notes/Class-09)
+Stacks and Queues                    | [class-09](https://obiorbitalstar.github.io/401-Reading-Notes/Class-09)
 -------------------------------------|-------------------------------------------
-Read-10                              | [class-10]()
+Data Science,Jupyter Lab,Numpy       | [class-10](https://obiorbitalstar.github.io/401-Reading-Notes/Class-10)
 -------------------------------------|-------------------------------------------
 Read-11                              | [class-11]()
 -------------------------------------|-------------------------------------------

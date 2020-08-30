@@ -26,7 +26,7 @@ Stacks and Queues                    | [class-09](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Data Science,Jupyter Lab,Numpy       | [class-10](https://obiorbitalstar.github.io/401-Reading-Notes/Class-10)
 -------------------------------------|-------------------------------------------
-Read-11                              | [class-11]()
+Pandas                               | [class-11](https://obiorbitalstar.github.io/401-Reading-Notes/Class-11)
 -------------------------------------|-------------------------------------------
 Read-12                              | [class-12]() 
 -------------------------------------|-------------------------------------------

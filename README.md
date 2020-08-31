@@ -28,7 +28,7 @@ Data Science,Jupyter Lab,Numpy       | [class-10](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Pandas                               | [class-11](https://obiorbitalstar.github.io/401-Reading-Notes/Class-11)
 -------------------------------------|-------------------------------------------
-Read-12                              | [class-12]() 
+Linear regression in python          | [class-12](https://obiorbitalstar.github.io/401-Reading-Notes/Class-12) 
 -------------------------------------|-------------------------------------------
 Read-13                              | [class-13]()
 -------------------------------------|-------------------------------------------

@@ -30,7 +30,7 @@ Pandas                               | [class-11](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Linear regression in python          | [class-12](https://obiorbitalstar.github.io/401-Reading-Notes/Class-12) 
 -------------------------------------|-------------------------------------------
-Read-13                              | [class-13]()
+Matplotlib                           | [class-13](https://obiorbitalstar.github.io/401-Reading-Notes/Class-13)
 -------------------------------------|-------------------------------------------
 Read-14                              | [class-14]()
 -------------------------------------|-------------------------------------------

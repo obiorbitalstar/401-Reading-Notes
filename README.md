@@ -32,7 +32,7 @@ Linear regression in python          | [class-12](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Matplotlib                           | [class-13](https://obiorbitalstar.github.io/401-Reading-Notes/Class-13)
 -------------------------------------|-------------------------------------------
-Read-14                              | [class-14]()
+Trees                                | [class-14](https://obiorbitalstar.github.io/401-Reading-Notes/Class-14)
 -------------------------------------|-------------------------------------------
 Read-15                              | [class-15]()
 -------------------------------------|-------------------------------------------

@@ -34,7 +34,7 @@ Matplotlib                           | [class-13](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Trees                                | [class-14](https://obiorbitalstar.github.io/401-Reading-Notes/Class-14)
 -------------------------------------|-------------------------------------------
-Read-15                              | [class-15]()
+Intro to Machine Learning            | [class-15](https://obiorbitalstar.github.io/401-Reading-Notes/Class-15)
 -------------------------------------|-------------------------------------------
 Read-16                              | [class-16]()
 -------------------------------------|-------------------------------------------

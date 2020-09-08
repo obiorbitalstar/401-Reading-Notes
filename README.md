@@ -40,7 +40,7 @@ Web Scraping                         | [class-16](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Caesar cipher                        | [class-17](https://obiorbitalstar.github.io/401-Reading-Notes/Class-17)
 -------------------------------------|-------------------------------------------
-Read-18                              | [class-18]()
+Python Regular Expression            | [class-18](https://obiorbitalstar.github.io/401-Reading-Notes/Class-18)
 -------------------------------------|-------------------------------------------
 Read-19                              | [class-19]()
 -------------------------------------|-------------------------------------------

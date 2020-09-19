@@ -42,7 +42,7 @@ Caesar cipher                        | [class-17](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Python Regular Expression            | [class-18](https://obiorbitalstar.github.io/401-Reading-Notes/Class-18)
 -------------------------------------|-------------------------------------------
-Read-19                              | [class-19]()
+Intro to Django                      | [class-19](https://obiorbitalstar.github.io/401-Reading-Notes/Class-18)
 -------------------------------------|-------------------------------------------
 Read-20                              | [class-20]()
 -------------------------------------|-------------------------------------------

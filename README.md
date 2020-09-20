@@ -4,7 +4,7 @@
 
 ***Name***                           | *Links*
 -------------------------------------|-------------------------------------------
-BIG O notaion                        | [class-00](https://obiorbitalstar.github.io/401-Reading-Notes/Class-00)
+BIG O notation                        | [class-00](https://obiorbitalstar.github.io/401-Reading-Notes/Class-00)
 -------------------------------------|-------------------------------------------
 Python Modules                       | [class-01](https://obiorbitalstar.github.io/401-Reading-Notes/Class-01)
 -------------------------------------|-------------------------------------------
@@ -16,7 +16,7 @@ Linked Lists                         | [class-04](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Random Module and Risk Analysis      | [class-05](https://obiorbitalstar.github.io/401-Reading-Notes/Class-05)
 -------------------------------------|-------------------------------------------
-Global and nonlocal socoops in python| [class-06](https://obiorbitalstar.github.io/401-Reading-Notes/Class-06)
+Global and nonlocals scoops in python| [class-06](https://obiorbitalstar.github.io/401-Reading-Notes/Class-06)
 -------------------------------------|-------------------------------------------
 List Comprehensions                  | [class-07](https://obiorbitalstar.github.io/401-Reading-Notes/Class-07)
 -------------------------------------|-------------------------------------------
@@ -42,9 +42,9 @@ Caesar cipher                        | [class-17](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Python Regular Expression            | [class-18](https://obiorbitalstar.github.io/401-Reading-Notes/Class-18)
 -------------------------------------|-------------------------------------------
-Intro to Django                      | [class-19](https://obiorbitalstar.github.io/401-Reading-Notes/Class-18)
+Intro to Django                      | [class-19](https://obiorbitalstar.github.io/401-Reading-Notes/Class-19)
 -------------------------------------|-------------------------------------------
-Read-20                              | [class-20]()
+Django Models                        | [class-20](https://obiorbitalstar.github.io/401-Reading-Notes/Class-20)
 -------------------------------------|-------------------------------------------
 Read-21                              | [class-21]()
 -------------------------------------|-------------------------------------------

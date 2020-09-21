@@ -46,7 +46,7 @@ Intro to Django                      | [class-19](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Django Models                        | [class-20](https://obiorbitalstar.github.io/401-Reading-Notes/Class-20)
 -------------------------------------|-------------------------------------------
-Read-21                              | [class-21]()
+Django working with forms            | [class-21](https://obiorbitalstar.github.io/401-Reading-Notes/Class-21)
 -------------------------------------|-------------------------------------------
 Read-22                              | [class-22]()
 -------------------------------------|-------------------------------------------

@@ -48,7 +48,7 @@ Django Models                        | [class-20](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Django working with forms            | [class-21](https://obiorbitalstar.github.io/401-Reading-Notes/Class-21)
 -------------------------------------|-------------------------------------------
-Read-22                              | [class-22]()
+Django Custom User Model             | [class-22](https://obiorbitalstar.github.io/401-Reading-Notes/Class-22)
 -------------------------------------|-------------------------------------------
 Read-23                              | [class-23]()
 -------------------------------------|-------------------------------------------

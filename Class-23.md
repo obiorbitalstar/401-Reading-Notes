@@ -76,3 +76,6 @@ The GetHash will accept a key as a string, conduct the hash, and then return the
 
 
 
+resource: 
+https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html
+

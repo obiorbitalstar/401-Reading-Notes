@@ -50,7 +50,7 @@ Django working with forms            | [class-21](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Django Custom User Model             | [class-22](https://obiorbitalstar.github.io/401-Reading-Notes/Class-22)
 -------------------------------------|-------------------------------------------
-Read-23                              | [class-23]()
+Hash table                           | [class-23](https://obiorbitalstar.github.io/401-Reading-Notes/Class-23)
 -------------------------------------|-------------------------------------------
 Read-24                              | [class-24]()
 -------------------------------------|-------------------------------------------

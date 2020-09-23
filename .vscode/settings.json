@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
+        "Hashtables",
         "contenttypes",
         "fieldname",
+        "hashtable",
         "makemigrations",
         "staticfiles",
         "timedelta",

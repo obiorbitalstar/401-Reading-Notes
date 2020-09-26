@@ -52,7 +52,7 @@ Django Custom User Model             | [class-22](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Hash table                           | [class-23](https://obiorbitalstar.github.io/401-Reading-Notes/Class-23)
 -------------------------------------|-------------------------------------------
-Read-24                              | [class-24]()
+Django docker and api                | [class-24](https://obiorbitalstar.github.io/401-Reading-Notes/Class-24)
 -------------------------------------|-------------------------------------------
 Read-25                              | [class-25]()
 -------------------------------------|-------------------------------------------

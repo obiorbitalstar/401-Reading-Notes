@@ -54,7 +54,7 @@ Hash table                           | [class-23](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Django docker and api                | [class-24](https://obiorbitalstar.github.io/401-Reading-Notes/Class-24)
 -------------------------------------|-------------------------------------------
-Read-25                              | [class-25]()
+Django permissions                   | [class-25](https://obiorbitalstar.github.io/401-Reading-Notes/Class-25)
 -------------------------------------|-------------------------------------------
 Read-26                              | [class-26]()
 -------------------------------------|-------------------------------------------

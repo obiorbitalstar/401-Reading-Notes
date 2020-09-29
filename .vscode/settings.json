@@ -3,11 +3,13 @@
         "Dockerized",
         "Hashtables",
         "contenttypes",
+        "djangorestframework",
         "dokerfile",
         "fieldname",
         "hashtable",
         "makemigrations",
         "permissioning",
+        "simplejwt",
         "staticfiles",
         "timedelta",
         "ugettext"

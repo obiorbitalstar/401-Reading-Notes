@@ -56,7 +56,7 @@ Django docker and api                | [class-24](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Django permissions                   | [class-25](https://obiorbitalstar.github.io/401-Reading-Notes/Class-25)
 -------------------------------------|-------------------------------------------
-Read-26                              | [class-26]()
+JWT Authentication with Django REST Framework| [class-26](https://obiorbitalstar.github.io/401-Reading-Notes/Class-26)
 -------------------------------------|-------------------------------------------
 Read-27                              | [class-27]()
 -------------------------------------|-------------------------------------------

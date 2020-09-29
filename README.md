@@ -58,7 +58,7 @@ Django permissions                   | [class-25](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 JWT Authentication with Django REST Framework| [class-26](https://obiorbitalstar.github.io/401-Reading-Notes/Class-26)
 -------------------------------------|-------------------------------------------
-Read-27                              | [class-27]()
+Django Settings Best Practices       | [class-27](https://obiorbitalstar.github.io/401-Reading-Notes/Class-27)
 -------------------------------------|-------------------------------------------
 Read-28                              | [class-28]()
 -------------------------------------|-------------------------------------------

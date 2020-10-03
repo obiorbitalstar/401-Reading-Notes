@@ -60,8 +60,8 @@ JWT Authentication with Django REST Framework| [class-26](https://obiorbitalstar
 -------------------------------------|-------------------------------------------
 Django Settings Best Practices       | [class-27](https://obiorbitalstar.github.io/401-Reading-Notes/Class-27)
 -------------------------------------|-------------------------------------------
-Read-28                              | [class-28]()
+Graphs                               | [class-28](https://obiorbitalstar.github.io/401-Reading-Notes/Class-28)
 -------------------------------------|-------------------------------------------
-Read-29                              | [class-29]()
+interview advice                     | [class-29](https://obiorbitalstar.github.io/401-Reading-Notes/Class-29)
 -------------------------------------|-------------------------------------------
 Read-35                              | [class-35]()

@@ -68,6 +68,6 @@ ReactJS                              | [class-35](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 ReactJS  2                           | [class-36](https://obiorbitalstar.github.io/401-Reading-Notes/Class-31)
 -------------------------------------|-------------------------------------------
-ReactJS   3                          | [class-37](https://obiorbitalstar.github.io/401-Reading-Notes/Class-32)
+ReactJS   3                          | [class-37](https://obiorbitalstar.github.io/401-Reading-Notes/Class-37)
 -------------------------------------|-------------------------------------------
 Class-33                             | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)

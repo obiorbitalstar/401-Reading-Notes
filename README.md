@@ -65,3 +65,9 @@ Graphs                               | [class-28](https://obiorbitalstar.github.
 interview advice                     | [class-29](https://obiorbitalstar.github.io/401-Reading-Notes/Class-29)
 -------------------------------------|-------------------------------------------
 ReactJS                              | [class-35](https://obiorbitalstar.github.io/401-Reading-Notes/Class-30)
+-------------------------------------|-------------------------------------------
+ReactJS  2                           | [class-36](https://obiorbitalstar.github.io/401-Reading-Notes/Class-31)
+-------------------------------------|-------------------------------------------
+ReactJS   3                          | [class-37](https://obiorbitalstar.github.io/401-Reading-Notes/Class-32)
+-------------------------------------|-------------------------------------------
+Class-33                             | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)

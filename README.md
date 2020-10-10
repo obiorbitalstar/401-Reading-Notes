@@ -68,6 +68,14 @@ ReactJS                              | [class-35](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 ReactJS  2                           | [class-36](https://obiorbitalstar.github.io/401-Reading-Notes/Class-31)
 -------------------------------------|-------------------------------------------
-ReactJS   3                          | [class-37](https://obiorbitalstar.github.io/401-Reading-Notes/Class-37)
+ReactJS   3                          | [class-37](https://obiorbitalstar.github.io/401-Reading-Notes/Class-32)
 -------------------------------------|-------------------------------------------
-Class-33                             | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)
+Code of Ethics                       | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)
+-------------------------------------|-------------------------------------------
+Class-34                             | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)
+-------------------------------------|-------------------------------------------
+Class-35                             | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)
+-------------------------------------|-------------------------------------------
+Class-36                             | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)
+
+

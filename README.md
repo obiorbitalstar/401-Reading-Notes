@@ -72,10 +72,5 @@ ReactJS   3                          | [class-37](https://obiorbitalstar.github.
 -------------------------------------|-------------------------------------------
 Code of Ethics                       | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)
 -------------------------------------|-------------------------------------------
-Class-34                             | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)
+Pythonisms                           | [class-39](https://obiorbitalstar.github.io/401-Reading-Notes/Class-34)
 -------------------------------------|-------------------------------------------
-Class-35                             | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)
--------------------------------------|-------------------------------------------
-Class-36                             | [class-38](https://obiorbitalstar.github.io/401-Reading-Notes/Class-33)
-
-
